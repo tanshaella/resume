@@ -25,3 +25,9 @@ theme:
     - navigation.indexes
     - toc.follow
     - navigation.top
+    - navigation.footer
+extra:
+  social:
+    - icon: simple/github
+      link: https://github.com/tanshaella
+copyright: Copyright &copy; 2025 Shaella
